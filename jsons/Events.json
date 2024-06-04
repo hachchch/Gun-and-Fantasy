@@ -5,7 +5,7 @@
                 "choices":[
 			{
                                 "text": "Science Tree",
-                                "triggeredUniques": ["Gain a free [Scientific Monument] [in capital]"]
+                                "triggeredUniques": ["Discover [Way of Science]"]
                         },
 			{
 				"text": "Fantasy Tree",
