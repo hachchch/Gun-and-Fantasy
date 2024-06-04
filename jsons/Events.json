@@ -1,0 +1,16 @@
+[
+        {
+                "name": "Great Way",
+                "text": "Select the tech tree your civilization uses.",
+                "choices":[
+			{
+                                "text": "Science Tree",
+                                "triggeredUniques": ["Gain a free [Scientific Monument] [in capital]"]
+                        },
+			{
+				"text": "Fantasy Tree",
+				"triggeredUniques": ["Gain a free [Fantasistic Monument] [in capital]"]
+			}
+                ]
+        }
+]
