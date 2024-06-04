@@ -1,1 +1,74 @@
-
+[
+        {
+                "columnNumber": 0,
+		"era": "Ancient era",
+		"techCost": 10,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Civilization",
+				"row": 6,
+				"uniques": ["Starting tech"]
+			}
+		]
+        },
+        {
+                "columnNumber": 1,
+		"era": "Medieval era",
+		"techCost": 10,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+                                "name": "Way of Fantasy",
+                                "row": 3,
+				"uniques": ["Starting tech"]
+                        },
+                        {
+                                "name": "Way of Science",
+                                "row": 9,
+				"uniques": ["Starting tech"]
+                        }
+                ]
+        },
+        {
+                "columnNumber": 3,
+		"era": "Medieval era",
+		"techCost": 10,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+                                "name": "Alchemy",
+                                "row": 1,
+				"uniques": ["Way of Fantasy"]
+                        },
+                        {
+                                "name": "Sorcery",
+                                "row": 3,
+				"uniques": ["Way of Fantasy"]
+                        },
+                        {
+                                "name": "Mana Power",
+                                "row": 5,
+				"uniques": ["Way of Fantasy"]
+                        },
+                        {
+                                "name": "Education",
+                                "row": 7,
+				"uniques": ["Way of Science"]
+                        },
+                        {
+                                "name": "Black Powder",
+                                "row": 9,
+				"uniques": ["Way of Science"]
+                        },
+                        {
+                                "name": "Printing Press",
+                                "row": 11,
+				"uniques": ["Way of Science"]
+                        }
+                ]
+        }
+]
